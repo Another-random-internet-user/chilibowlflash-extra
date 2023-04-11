@@ -1,12 +1,4 @@
-
-Flash Games running off of ruffle, on their very own webpage. Making it easy to embed right onto your website! May take a smidge to load. 
-
-This is different than the Â¨packÂ¨ as this version is just each game on its own page, which makes it better for embeds.  Also, yeah I know it looks straight out of the late 90's but whatever. If the link attached is down, then I'm most likely updating it. 
-
-Also, in case something happens, heres a backup:
-https://chili-bowl-flashv3.glitch.me/
-
-Note: I do not take credit for ANY of this website except for the code housing all of these things together. 
+This is not originally mine, I am just adding extra games, pls check the original here https://github.com/CBGamesdev/chilibowlflash
 
 Credit:
 -
